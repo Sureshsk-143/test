@@ -1,0 +1,19 @@
+{
+    "users":[
+        {
+            "id":1,
+            "Name":"suresh",
+            "Degree":"MBA"
+        },
+        {
+            "id":2,
+            "Name":"sarvana",
+            "Degree":"BSC.Maths"
+        },
+        {
+            "id":3,
+            "Name":"surya",
+            "Degree":"BA.English"
+        }
+    ]
+}
